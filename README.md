@@ -32,5 +32,4 @@ End 12 rounds alive with a **Positive System Score**.
 python market_warfare_demo.py
 Built by 🧠♟️🔥 Commander Flame
 © 2025 Flame Division — All Systems Operational
-Built by 🧠♟️🔥 Commander Flame
-© 2025 Flame Division — All Systems Operational
+

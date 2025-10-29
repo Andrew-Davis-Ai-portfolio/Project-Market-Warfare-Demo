@@ -51,3 +51,7 @@ python market_warfare_demo.py --difficulty hard
 📉 Market Pressure Increased
 ⚠️ Warning: Cashflow Strain Emerging
 🤖 Failure AI Stability Check: THREAT LEVEL RISING
+🔥 Round 7 — Expansion Attempt
+🚫 Customer Rejection Spike
+🤖 Failure AI Response: DIRECT STRIKE
+📉 System Score Dropped to -12

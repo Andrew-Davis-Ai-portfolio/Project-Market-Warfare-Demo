@@ -47,11 +47,18 @@ python market_warfare_demo.py --difficulty hard
 ## 🖥️ Demo Output
 
 > Sample round results from the Failure AI simulation:
+
 💼 Round 3 — Price Cut Strategy Applied
 📉 Market Pressure Increased
 ⚠️ Warning: Cashflow Strain Emerging
 🤖 Failure AI Stability Check: THREAT LEVEL RISING
+
 🔥 Round 7 — Expansion Attempt
 🚫 Customer Rejection Spike
 🤖 Failure AI Response: DIRECT STRIKE
 📉 System Score Dropped to -12
+
+✅ Round 12 — Defensive Strategy Success
+🔒 Operation Stabilized
+📈 Positive System Score Achieved
+🏆 Victory — You Beat Failure AI… This Time

@@ -39,7 +39,11 @@ End 12 rounds alive with a **Positive System Score**.
 
 ## 🧪 Play the Demo
 
-### Run the Demo
+### 🕹️ Run the Demo
+
+Manual Play mode:
+```bash
+python market_warfare_demo.py
 
 python market_warfare_demo.py                # manual play
 python market_warfare_demo.py --auto         # auto-play mode

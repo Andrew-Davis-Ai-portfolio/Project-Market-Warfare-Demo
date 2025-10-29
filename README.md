@@ -29,6 +29,10 @@ End 12 rounds alive with a **Positive System Score**.
 
 ## 🧪 Play the Demo
 
-```bash
-python market_warfare_demo.py
+### Run the Demo
+
+python market_warfare_demo.py                # manual play
+python market_warfare_demo.py --auto         # auto-play mode
+python market_warfare_demo.py --auto --seed 42 --rounds 12
+python market_warfare_demo.py --difficulty hard
 

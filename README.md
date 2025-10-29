@@ -47,3 +47,7 @@ python market_warfare_demo.py --difficulty hard
 ## 🖥️ Demo Output
 
 > Sample round results from the Failure AI simulation:
+💼 Round 3 — Price Cut Strategy Applied
+📉 Market Pressure Increased
+⚠️ Warning: Cashflow Strain Emerging
+🤖 Failure AI Stability Check: THREAT LEVEL RISING

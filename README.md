@@ -42,3 +42,8 @@ python market_warfare_demo.py --auto         # auto-play mode
 python market_warfare_demo.py --auto --seed 42 --rounds 12
 python market_warfare_demo.py --difficulty hard
 
+---
+
+## 🖥️ Demo Output
+
+> Sample round results from the Failure AI simulation:

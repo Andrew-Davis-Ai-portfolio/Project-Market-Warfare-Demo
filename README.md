@@ -1,3 +1,7 @@
+<img src="https://img.shields.io/badge/Version-v1.0.0-darkblue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Game_Engine-Failure_AI-critical?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Genre-Business%20Warfare-yellow?style=for-the-badge" />
+
 # Project-Market-Warfare-Demo
 A real-time business pressure simulator where Failure AI aggressively tests your strategic decisions.
 # ⚔️ Market Warfare Demo — Failure AI Simulation Engine

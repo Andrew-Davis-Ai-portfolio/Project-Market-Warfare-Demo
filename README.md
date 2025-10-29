@@ -1,7 +1,13 @@
 # Project-Market-Warfare-Demo
 A real-time business pressure simulator where Failure AI aggressively tests your strategic decisions.
 # ⚔️ Market Warfare Demo — Failure AI Simulation Engine
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3.10+-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Status-Playable-green" alt="Status">
+  <img src="https://img.shields.io/badge/Mode-Auto%2FManual-orange" alt="Mode">
+  <img src="https://img.shields.io/badge/Failure_AI-Active-red" alt="AI Engine">
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License">
+</p>
 > “Markets do not negotiate.”
 
 This demo showcases real-time strategic consequences inside the AI-driven business battlefield — where every risky decision awakens **Failure AI**.

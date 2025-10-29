@@ -50,6 +50,14 @@ python market_warfare_demo.py --difficulty hard
 
 ## 🖥️ Demo Output
 
+📂 Project Structure
+
+market_warfare_demo/
+├── market_warfare_demo.py   # Main simulation engine
+├── README.md                # Documentation
+├── LICENSE                  # MIT License
+└── requirements.txt         # Dependencies (optional)
+
 > Sample round results from the Failure AI simulation:
 
 💼 Round 3 — Price Cut Strategy Applied
